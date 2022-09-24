@@ -12,8 +12,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=neoterm-extra&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
  <details> 
- <summary>Metrics</summary> 
- <img src="https://metrics.lecoq.io/neoterm-extra?template=classic&isocalendar=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&repositories.pinned=0&introduction.title=true&config.timezone=Asia%2FShanghai&config.twemoji=true alt="If the image fails to display, please refresh"></img>      
+ <summary>bilibili 干杯🍻</summary> 
  </details> 
   
  你好，很高兴认识你~
