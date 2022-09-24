@@ -1,8 +1,6 @@
 ### NeoTerm-Extra 👋 
   
- [![wakatime](https://wakatime.com/badge/user/d3435c16-db57-44d4-9f61-59b2016be4c5.svg)](https://wakatime.com/@d3435c16-db57-44d4-9f61-59b2016be4c5) 
-  
- ![](https://count.getloli.com/get/@neoterm-extra.github.readme) 
+ ![](https://count.getloli.com/get/@neoterm-extra?theme=gelbooru) 
   
   
  ![manjaro kde](https://img.shields.io/badge/Manjaro-KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![archcraft](https://img.shields.io/badge/Archcraft-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![cutefish](https://img.shields.io/badge/Linux-CutefishOS-25b0ff?style=for-the-badge&logo=ubuntu&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
