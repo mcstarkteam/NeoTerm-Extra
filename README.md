@@ -18,27 +18,17 @@
  <img src="https://metrics.lecoq.io/neoterm-extra?template=classic&isocalendar=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&repositories.pinned=0&introduction.title=true&config.timezone=Asia%2FShanghai&config.twemoji=true alt="If the image fails to display, please refresh"></img>      
  </details> 
   
- Hi, glad to meet you~ 
+ 你好，很高兴认识你~
+ 
+ 这是来自中国四川的学生
+
+ 我的网站： 
+ 
+ [呜呜呜,还没有]() 
   
- Here is Kevin Williams, a student from Guangdong, China. 
+ 联系我： 
+
+［QQ：2987456283］
+［MAIL：2987456283@qq.com］
   
- My website： 
-  
-  
- [blog](https://blog.utermux.dev?utm_source=github) 
-  
- [homepage](https://www.utermux.dev) 
-  
-  
- Contact Me： 
-  
-  
-  
- [![Telegram](https://img.shields.io/badge/Telegram-@utermux_blog-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/utermux_blog) 
-  
-  
-  
- [![Mail](https://img.shields.io/badge/-admin@utermux.dev-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@utermux.dev) 
-  
-  
- # Sponsor me ♥
+ # 爱你 ♥
