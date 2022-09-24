@@ -1,4 +1,4 @@
-### neoterm-extra 👋 
+### NeoTerm-Extra 👋 
   
  [![wakatime](https://wakatime.com/badge/user/d3435c16-db57-44d4-9f61-59b2016be4c5.svg)](https://wakatime.com/@d3435c16-db57-44d4-9f61-59b2016be4c5) 
   
