@@ -19,12 +19,13 @@
 
  我的网站： 
  
- [呜呜呜,还没有]() 
+ [我的博客](https://blog.aln666.tk) 
   
  联系我： 
 
 ［QQ：2987456283］
 
 ［MAIL：2987456283@qq.com］ 
+ [Gmail: mcstarkdev@gmail.com]
   
  # 爱你 ♥
