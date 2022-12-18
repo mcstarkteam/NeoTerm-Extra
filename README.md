@@ -27,6 +27,6 @@
 
 ［MAIL：2987456283@qq.com］ 
  
-  [Gmail: mcstarkdev@gmail.com]  
+ [Gmail: mcstarkdev@gmail.com]  
   
  # 爱你 ♥
